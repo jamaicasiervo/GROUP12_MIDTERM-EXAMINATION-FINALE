@@ -11,6 +11,18 @@ Below is the interactive dashboard ceated by the group:
 # FUNCTION
 Participants in the activity will modify and illustrate numerous Text, Math, Logical, Formation, Date and Time, and Lookup Functions using Excel and the provided data. Below are the matching tables that the authors of this group produced by utilizing the various functions.
 
+# A. TEXT FUNCTIONS
+
+# MATH FUNCTIONS
+
+# LOGICAL FUNCTIONS
+
+# INFORMATION FUNCTIONS
+
+# DATE AND TIME FUNCTIONS
+
+# LOOKUP FUNCTIONS
+
 
 
 
